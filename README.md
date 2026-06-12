@@ -8,6 +8,7 @@ Assess key website performance metrics to understand user behavior and identify 
 - Data Analysis
 - XLOOKUP
 - PivotTables
+- Website Analysis
 ## Key Metrics Analyzed
 - Mobile Visits
 - Bounce Rate
